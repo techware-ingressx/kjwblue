@@ -1,0 +1,4 @@
+name,email,subject,body
+홍길동,gildong@example.com,안녕하세요 {name}님,<h1>환영합니다 {name}님!</h1><p>이 메일은 테스트 메일입니다.</p>
+김철수,chulsoo@example.com,주간 리포트 안내,<p>{name}님 안녕하세요.</p><p>이번 주 리포트를 확인해 주세요.</p>
+이영희,younghee@example.com,미팅 일정 안내,<p>안녕하세요 {name}님.</p><p>내일 오전 10시에 미팅이 예정되어 있습니다.</p>
